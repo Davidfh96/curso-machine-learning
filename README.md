@@ -41,7 +41,7 @@ SPACEX2 - 6 - Machine Learning Predicciones
 
 10 - Matplotlib y Seaborn.ipynb
 
-10 - Pandas.ipynb
+11 - Pandas.ipynb
 
 12 - Plotly.ipynb
 
